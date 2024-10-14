@@ -128,4 +128,39 @@
     color: black;
 }
 
+/* 5th section  */
+.support{
+    text-align: center;
+    padding: 50px 100px;
+    gap: 25px;
+    
+}
+.text-clr{
+    color: white;
+}
+.support-background-img{
+    background-image: url(../B10A1-Challenge-Begins-main/assets/handshake.jpg);
+    background-repeat: no-repeat;
+    background-position: fixed;
+    background-size: cover;
+    border-radius: 10px;
+    margin:50px 220px  ;
+}
+
+.form-input{
+    height: 30px;
+    width: 550px ;
+    border-radius: 10px;
+    padding: 10px;
+    border: none;
+}
+.form-btn{
+    height: 50px;
+    width: 120px;
+    background-color: white;
+    border-radius: 10px;
+    font-weight: bold;
+    border: none;
+}
+
 
