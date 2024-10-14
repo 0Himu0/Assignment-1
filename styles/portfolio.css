@@ -77,3 +77,22 @@
     
     
 }
+
+/* 2nd section  */
+.my-inspiration{
+    
+    text-align: center;
+    padding: 50px 220px;
+    gap: 25px;
+}
+.my-inspiration-vdeo{
+    text-align: center;
+    height: 450px;
+    width: 1000px;
+    padding: 30px;
+    margin-top: 30px;
+    
+    border-radius: 15px;
+}
+
+
