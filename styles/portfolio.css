@@ -73,9 +73,7 @@
     font-size: 18px;
     color: #0D1321;
     padding: 12px 20px ;
-    border-radius: 0px;
-    
-    
+    border-radius: 0px;  
 }
 
 /* 2nd section  */
@@ -85,6 +83,7 @@
     padding: 50px 220px;
     gap: 25px;
 }
+
 .my-inspiration-vdeo{
     text-align: center;
     height: 450px;
