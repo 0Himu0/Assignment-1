@@ -34,4 +34,46 @@
     background-size: cover;
 }
 
+/* 1st section  */
+.why-web-dev{
+    border-radius: 10px;
+    margin: 50px 220px;
+    padding: 5%;
+    background-color: rgba(13, 19, 33, 0.02);
 
+    
+}
+
+.why-web-dev-intro{
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.why-web-dev-items{
+    margin: 20px;
+}
+.why-web-dev-item{
+    display: flex;
+    justify-content: space-between;
+
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+
+    
+    
+}
+.why-web-dev-item-section{
+    max-width: 500px;
+}
+.why-web-dev-item-btn{
+    background-color: white ;
+    font-weight: 130px;
+    font-weight: bold;
+    font-size: 18px;
+    color: #0D1321;
+    padding: 12px 20px ;
+    border-radius: 0px;
+    
+    
+}
