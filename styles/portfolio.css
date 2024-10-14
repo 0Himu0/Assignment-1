@@ -95,4 +95,37 @@
     border-radius: 15px;
 }
 
+/* 3rd section  */
+.current-target{
+    text-align: center;
+    padding: 50px 220px;
+    gap: 25px;
+}
+
+.skill-container{
+    display: flex;
+    text-align: left;
+    gap: 25px;
+}
+.skill{
+    margin-top: 10px;
+    padding: 30px;
+    border-radius: 15px;
+}
+.skill-back-img1{
+    background-color: rgba(255, 76, 30, 0.05);
+}
+.skill-back-img2{
+    background-color: rgba(0, 76, 232, 0.05);
+}
+.skill-back-img3{
+
+    background-color: rgba(255, 223, 0, 0.05);
+}
+.skill-container-btn{
+    background-color: none ;
+    font-weight: bold;
+    color: black;
+}
+
 
