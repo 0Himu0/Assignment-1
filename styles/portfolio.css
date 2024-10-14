@@ -163,4 +163,13 @@
     border: none;
 }
 
+/* footer */
+.foot{
+    background-color: rgba(13, 19, 33, 0.03);
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 220px;
+    gap: 30px;
+}
+
 
